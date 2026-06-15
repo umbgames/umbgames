@@ -24,11 +24,6 @@
   <a href="https://x.com/umbgameslimited" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="35" height="35"/>
   </a>
-  &emsp;&emsp;
-  <a href="https://www.linkedin.com/in/usman-baba-mallam-1802783a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="35" height="35"/>
-
-  </a>
 </p>
 
 </div>
