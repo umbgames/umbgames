@@ -6,47 +6,56 @@ Innovating through Games, Software, Artificial Intelligence, and Emerging Techno
 
 Nigeria
 
-## 🕒 Local Time
+## 🌐 Connect With Us
 
+<p align="left">
+  <a href="https://umbtechnologies.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="40" height="40"/>
+  </a>
 
-![Local Time](https://img.shields.io/badge/Timezone-WAT%20(UTC%2B1)-blue)
+  <a href="mailto:umbgameslimited@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/umbgames" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/>
+  </a>
+
+  <a href="https://x.com/umbgameslimited" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/usman-baba-mallam-1802783a3/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🚀 About Us
 
-UMB Games and Technology Ltd is a technology company focused on building:
+UMB Games and Technology Ltd is a technology company focused on:
 
-- Video Games
+- Game Development
+- Artificial Intelligence
 - Web Applications
 - Mobile Applications
-- Artificial Intelligence Solutions
 - Enterprise Software
-- Cloud-Based Systems
-- Digital Innovation Products
-
-## 🌐 Official Links
-
-- Website: https://umbtechnologies.com
-- Email: umbgameslimited@gmail.com
-
-## 📱 Social Accounts
-
-- Instagram: https://instagram.com/umbgames
-- X (Twitter): https://x.com/umbgameslimited
-- LinkedIn: https://www.linkedin.com/in/usman-baba-mallam-1802783a3/
+- Cloud Solutions
+- Emerging Technologies
 
 ## 🛠 Technologies
 
-- TypeScript
-- React
-- React Native
-- NestJS
-- Node.js
-- Unity
-- C#
-- Firebase
-- AWS
-- PostgreSQL
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React Native"/>
+  <img src="https://cdn.simpleicons.org/nestjs" width="40" height="40" alt="NestJS"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/unity" width="40" height="40" alt="Unity"/>
+  <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" alt="AWS"/>
+</p>
 
+---
 
 ## 📂 Official Repositories
 
